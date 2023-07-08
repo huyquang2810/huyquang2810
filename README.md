@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @huyquang2810
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-huyquang2810/huyquang2810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Cao Quang Huy
+- 🌱 I’m currently learning Computer Engineering at University Of Information Technology - UIT
+- 📫 How to reach me cqh01234@gmail.com
+![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
